@@ -1,0 +1,397 @@
+,Player_Id,Player_Name,Country,Batsman_Index,Foreign_Player,Base_Price
+0,1,SC Ganguly,India,819.6999034,,
+1,2,BB McCullum,New Zealand,1344.089867,,2
+2,4,DJ Hussey,Australia,742.8925131,,
+3,5,Mohammad Hafeez,Pakistan,64.82231905,,
+4,6,R Dravid,India,1242.440007,,
+5,8,V Kohli,India,2198.617144,,3.5
+6,9,JH Kallis,South Africa,1416.750227,,
+7,10,CL White,Australia,548.0641629,,2
+8,11,MV Boucher,South Africa,242.7686371,,
+9,12,B Akhil,India,66.54843434,,
+10,14,P Kumar,India,220.4509663,,
+11,15,Z Khan,India,93.0329775,,0.2
+12,17,PA Patel,India,1124.203825,,1
+13,18,ML Hayden,Australia,622.6682601,,
+14,19,MEK Hussey,Australia,1103.246467,,
+15,20,MS Dhoni,India,1709.709632,,3
+16,21,SK Raina,India,2156.451005,,
+17,22,JDP Oram,New Zealand,85.9210096,,
+18,23,S Badrinath,India,826.0525193,,
+19,24,K Goel,India,162.9431691,,
+20,25,JR Hopes,Australia,252.5653132,,
+21,26,KC Sangakkara,Sri Lanka,953.9354724,,
+22,27,Yuvraj Singh,India,1279.990114,,2
+23,28,SM Katich,Australia,164.3569481,,
+24,29,IK Pathan,India,659.2699885,,
+25,31,YK Pathan,India,1448.872178,,0.75
+26,32,SR Watson,Australia,1358.600907,,1
+27,33,M Kaif,India,177.4000965,,
+28,35,RA Jadeja,India,883.4163193,,2.5
+29,36,M Rawat,India,55.54851371,,0.2
+30,37,D Salunkhe,India,44.833,,
+31,38,SK Warne,Australia,144.2946771,,
+32,39,SK Trivedi,India,46.65200234,,
+33,40,G Gambhir,India,2003.963339,,2
+34,41,V Sehwag,India,1418.837455,,
+35,42,S Dhawan,India,1722.299828,,5.2
+36,44,ST Jayasuriya,Sri Lanka,437.112381,,
+37,46,RV Uthappa,India,1844.69276,,2
+38,47,PR Shah,India,80.19756667,,
+39,48,AM Nayar,India,400.1902974,,
+40,49,SM Pollock,South Africa,108.3640856,,
+41,50,Harbhajan Singh,India,447.4519769,,2
+42,52,LRPL Taylor,New Zealand,578.9506872,,
+43,53,AC Gilchrist,Australia,1127.874039,,
+44,54,Y Venugopal Rao,India,573.7498285,,
+45,55,VVS Laxman,India,190.8599821,,
+46,56,A Symonds,Australia,549.4115312,,
+47,57,RG Sharma,India,2066.057686,,3
+48,58,SB Styris,New Zealand,100.5615682,,
+49,59,SB Bangar,India,50.06496502,,
+50,60,WPUJC Vaas,Sri Lanka,67.35475342,,
+51,61,RP Singh,India,55.71542989,,
+52,62,WP Saha,India,728.3333981,,1
+53,63,LR Shukla,India,250.5497747,,
+54,64,DPMD Jayawardene,Sri Lanka,1020.363111,,
+55,65,S Sohal,India,233.3316716,,
+56,66,B Lee,Australia,93.33967757,,
+57,67,PP Chawla,India,319.9582361,,1
+58,68,WA Mota,India,54.47735714,,
+59,69,Kamran Akmal,Pakistan,103.9513814,,
+60,70,Shahid Afridi,Pakistan,75.53947295,,
+61,71,DJ Bravo,West Indies,711.3669943,,2
+62,72,MA Khote,India,36.62048485,,
+63,73,A Nehra,India,46.69396349,,
+64,74,GC Smith,South Africa,454.2220938,,
+65,77,S Sreesanth,India,42.68633333,,
+66,78,VRV Singh,India,24.66066667,,
+67,79,SS Tiwary,India,698.2690302,,0.5
+68,80,DS Kulkarni,India,76.36922199,,0.5
+69,81,R Vinay Kumar,India,198.3771869,,1
+70,82,AB Agarkar,India,130.6492177,,
+71,83,M Kartik,India,86.21772699,,
+72,84,I Sharma,India,42.9274441,,0.75
+73,85,AM Rahane,India,1492.273813,,2
+74,86,Shoaib Malik,Pakistan,55.40524558,,
+75,87,MK Tiwary,India,770.7620309,,0.5
+76,88,KD Karthik,India,1401.949146,,2
+77,89,R Bhatia,India,204.8523122,,
+78,90,MF Maharoof,India,119.8674294,,
+79,93,B Chipli,India,187.2754909,,
+80,94,DW Steyn,South Africa,120.5766501,,1
+81,95,DB Das,India,198.8386607,,
+82,96,MK Pandey,India,1035.987048,,1
+83,97,HH Gibbs,South Africa,538.6712189,,
+84,98,DNT Zoysa,Sri Lanka,28.28177778,,
+85,100,SE Marsh,Australia,1205.795169,,1.5
+86,101,SA Asnodkar,India,262.109803,,
+87,102,Sohail Tanvir,Pakistan,45.9629129,,
+88,103,Salman Butt,Pakistan,147.4390854,,
+89,104,BJ Hodge,Australia,785.3306619,,
+90,105,Umar Gul,Pakistan,55.14875,,
+91,106,AB Dinda,India,29.91819048,,0.5
+92,108,S Vidyut,India,108.8280924,,
+93,109,JA Morkel,South Africa,533.676209,,
+94,110,AB de Villiers,South Africa,1670.986457,,2.5
+95,111,LPC Silva,Sri Lanka,55.09108519,,
+96,112,DB Ravi Teja,India,237.0600111,,
+97,113,Misbah-ul-Haq,Pakistan,93.69759654,,
+98,114,YV Takawale,India,144.0230885,,
+99,115,RR Raje,India,31.85568889,,
+100,116,PJ Sangwan,India,30.12683333,,0.3
+101,118,GD McGrath,Australia,17.982,,
+102,119,Joginder Sharma,India,42.8232,,
+103,120,MS Gony,India,79.50962381,,
+104,121,M Muralitharan,Sri Lanka,28.97288889,,
+105,122,M Ntini,South Africa,26.848,,
+106,123,DT Patil,India,25.703,,
+107,124,A Kumble,India,40.89367619,,
+108,125,S Anirudha,India,104.9307269,,
+109,126,MM Patel,India,44.05957576,,
+110,128,A Chopra,India,55.3881,,
+111,129,T Taibu,Zimbabwea,40.34174359,,
+112,132,SP Goswami,India,173.5110308,,0.2
+113,133,SR Tendulkar,India,1329.022777,,
+114,135,TM Dilshan,Sri Lanka,687.6400801,,
+115,136,A Mishra,India,204.4266032,,1.5
+116,137,AD Mascarenhas,England,68.29188687,,
+117,138,NK Patel,India,104.8420831,,
+118,139,LA Pomersbach,Australia,197.0872837,,
+119,140,Iqbal Abdulla,India,70.8573445,,0.3
+120,147,DR Smith,West Indies,1171.409998,,
+121,148,SD Chitnis,India,80.45382174,,
+122,151,L Balaji,India,41.94366154,,
+123,152,A Mukund,India,32.61672174,,
+124,153,RR Powar,India,61.3135,,
+125,154,JP Duminy,South Africa,1091.149526,,1
+126,155,A Flintoff,England,67.6657,,
+127,157,JD Ryder,New Zealand,360.1378667,,
+128,158,KP Pietersen,South Africa,559.9428979,,
+129,161,RS Bopara,England,324.008928,,
+130,162,CH Gayle,West Indies,1783.332111,,2
+131,163,MC Henriques,Australia,402.099234,,1.5
+132,164,R Bishnoi,India,36.98843529,,
+133,166,KV Sharma,India,176.8225668,,2
+134,167,PC Valthaty,India,313.7785473,,
+135,168,RJ Quiney,Australia,86.57967905,,
+136,169,AS Raut,India,136.6404781,,
+137,170,Yashpal Singh,India,63.05933657,,
+138,171,M Manhas,India,320.3851199,,
+139,172,AA Bilakhia,India,68.40458182,,
+140,175,DL Vettori,New Zealand,92.92470991,,
+141,176,MN van Wyk,South Africa,125.222963,,
+142,177,RE van der Merwe,South Africa,117.2189667,,
+143,178,TL Suman,India,403.0851671,,
+144,180,GR Napier,England,30.234,,
+145,182,LA Carseldine,Australia,75.66024507,,
+146,183,NV Ojha,India,849.3970408,,0.75
+147,185,M Vijay,India,1394.886541,,2
+148,186,SB Jakati,India,36.46416667,,
+149,187,DA Warner,Australia,1772.286092,,3
+150,188,RJ Harris,Australia,89.44381905,,
+151,190,M Morkel,South Africa,93.3262341,,0.75
+152,191,AD Mathews,Sri Lanka,399.3239042,,
+153,192,J Botha,South Africa,254.8875146,,
+154,194,SL Malinga,Sri Lanka,73.40115556,,1
+155,197,GJ Bailey,Australia,391.4286388,,
+156,198,AB McDonald,Australia,103.2848841,,
+157,199,Y Nagar,India,187.4767337,,
+158,201,R Ashwin,India,165.0317661,,2
+159,203,CA Pujara,India,263.3875325,,
+160,204,OA Shah,England,301.1118944,,
+161,205,Anirudh Singh,India,68.44991087,,
+162,207,AP Tare,India,205.4833806,,0.2
+163,208,AT Rayudu,India,1272.84279,,0.5
+164,209,R Sathish,India,175.1789923,,
+165,210,R McLaren,South Africa,124.6360949,,
+166,211,AA Jhunjhunwala,India,153.5426475,,
+167,212,P Dogra,India,98.39914832,,
+168,214,MS Bisla,India,487.1041784,,
+169,216,EJG Morgan,England,462.1452156,,2
+170,217,JM Kemp,South Africa,38.5535,,
+171,221,KA Pollard,West Indies,1029.781702,,2
+172,225,DR Martyn,Australia,34.97319231,,
+173,226,S Narwal,India,46.61877012,,
+174,227,AB Barath,India,52.57821163,,
+175,228,Bipul Sharma,India,107.0254086,,0.2
+176,229,FY Fazal,India,135.3351944,,
+177,230,AC Voges,Australia,129.1164537,,
+178,231,MD Mishra,India,163.6709618,,
+179,232,UT Yadav,India,100.7576061,,1
+180,233,J Theron,South Africa,22.00980769,,
+181,235,R Sharma,India,62.39894217,,
+182,236,Mandeep Singh,India,534.364436,,0.5
+183,237,KM Jadhav,India,360.1097973,,2
+184,238,SW Tait,Australia,32.84595385,,
+185,239,KB Arun Karthik,India,51.67149009,,
+186,240,KAJ Roach,West Indies,29.24588889,,
+187,241,PD Collingwood,England,144.6828179,,
+188,243,VS Malik,India,22.612,,
+189,244,A Mithun,India,42.45042308,,0.5
+190,245,AP Dole,India,49.30386522,,
+191,246,AN Ahmed,India,45.36483333,,
+192,247,RS Sodhi,India,34.955,,0.5
+193,248,DE Bollinger,Australia,32.02501087,,
+194,250,B Sumanth,India,43.119,,
+195,253,MR Marsh,Australia,151.5414792,,
+196,254,AJ Finch,Australia,744.9558769,,1.5
+197,255,STR Binny,India,393.5264966,,0.5
+198,256,Harmeet Singh,India,36.1475,,
+199,257,IR Jaggi,India,50.28743333,,0.2
+200,258,DT Christian,Australia,212.82681,,1
+201,259,RV Gomez,India,51.96623375,,
+202,260,MA Agarwal,India,467.9877066,,0.2
+203,261,AUK Pathan,India,51.69182857,,
+204,262,UBT Chand,India,208.1166219,,0.2
+205,264,Sunny Singh,India,51.34832097,,
+206,266,AL Menaria,India,250.9414227,,
+207,267,WD Parnell,South Africa,64.63824091,,
+208,268,JJ van der Wath,South Africa,31.19345098,,
+209,270,S Aravind,India,41.1685,,
+210,274,AC Thomas,England,32.02125,,
+211,275,JEC Franklin,New Zealand,213.5054091,,
+212,276,Shakib Al Hasan,Bangladesh,295.8252583,,1
+213,277,DH Yagnik,India,120.4080424,,
+214,280,NLTC Perera,Sri Lanka,253.9230221,,0.5
+215,283,J Syed Mohammad,India,37.63202593,,
+216,284,RN ten Doeschate,Netherlands,199.2434185,,
+217,285,TR Birt,Australia,71.6098339,,
+218,286,AG Murtaza,India,21.95280952,,
+219,290,I Malhotra,India,32.992,,
+220,293,S Nadeem,India,36.14329404,,0.4
+221,295,CJ Ferguson,Australia,85.48609706,,0.75
+222,296,VR Aaron,India,46.0972381,,0.5
+223,297,AA Chavan,India,27.44915152,,
+224,299,B Kumar,India,115.3989903,,2.5
+225,301,S Rana,India,79.76890102,,
+226,303,F du Plessis,South Africa,716.6086383,,1.5
+227,305,GJ Maxwell,Australia,492.7735552,,2
+228,306,SPD Smith,India,675.6925063,,
+229,307,MN Samuels,West Indies,102.8706775,,
+230,308,SA Yadav,India,298.571207,,0.3
+231,309,KK Cooper,West Indies,89.83840476,,
+232,310,JP Faulkner,Australia,276.0080455,,2
+233,311,HV Patel,India,48.92055303,,0.2
+234,312,DAJ Bracewell,New Zealand,32.30166667,,
+235,314,Ankit Sharma,India,66.91650985,,0.2
+236,315,SP Narine,West Indies,49.32565484,,2.5
+237,316,GB Hogg,Australia,32.6845,,
+238,319,N Saini,India,109.7397617,,0.2
+239,320,DA Miller,South Africa,783.2602566,,1.5
+240,321,Azhar Mahmood,Pakistan,239.0373583,,
+241,322,P Negi,India,139.7687799,,0.5
+242,323,RJ Peterson,South Africa,40.1729,,
+243,324,KMDN Kulasekara,Sri Lanka,30.88733333,,
+244,325,A Ashish Reddy,India,172.8967383,,
+245,327,BB Samantray,India,98.9933032,,
+246,329,Gurkeerat Singh,India,214.869506,,
+247,330,AP Majumdar,India,75.39627597,,0.2
+248,331,PA Reddy,India,125.7880128,,
+249,334,AD Russell,West Indies,320.074847,,2.5
+250,336,CA Lynn,Australia,78.87839412,,2
+251,338,MC Juneja,India,102.3220045,,
+252,339,KK Nair,India,502.682718,,0.5
+253,340,GH Vihari,India,197.905952,,
+254,342,R Shukla,India,29.89302174,,
+255,345,M Vohra,India,423.3012108,,0.2
+256,349,R Rampaul,West Indies,51.68354945,,
+257,350,CH Morris,South Africa,172.3263001,,2.5
+258,351,SV Samson,India,598.6795579,,8
+259,353,BJ Rohrer,Australia,132.6434757,,
+260,354,KL Rahul,India,420.7509344,,2
+261,355,Q de Kock,South Africa,423.5107397,,2
+262,356,R Dhawan,India,110.487881,,0.5
+263,357,MG Johnson,Australia,101.5575974,,2
+264,358,LJ Wright,England,94.02833651,,
+265,360,CM Gautam,India,126.6045854,,
+266,362,DJG Sammy,West Indies,190.7976097,,
+267,363,KW Richardson,Australia,41.66551923,,
+268,364,MM Sharma,India,57.10552494,,1.5
+269,366,Parvez Rasool,India,28.021,,
+270,367,Sandeep Sharma,India,27.72162069,,0.5
+271,369,Sachin Baby,India,93.49206458,,0.2
+272,370,PV Tambe,India,29.87538462,,
+273,371,NM Coulter-Nile,Australia,42.79638571,,1.5
+274,372,CJ Anderson,New Zealand,231.6778515,,2
+275,374,AR Patel,India,233.4819031,,2.5
+276,375,JJ Bumrah,India,21.392,,2.5
+277,376,JDS Neesham,New Zealand,51.2035942,,
+278,377,TG Southee,New Zealand,50.66381818,,1
+279,378,MA Starc,Australia,79.32342968,,2
+280,380,RR Rossouw,South Africa,59.89247843,,
+281,381,Shivam Sharma,India,30.10533333,,
+282,383,LMP Simmons,West Indies,546.2607603,,1.5
+283,385,BCJ Cutting,Australia,71.16045116,,1
+284,386,Imran Tahir,India,28.57265217,,1
+285,388,S Gopal,India,24.95981481,,0.2
+286,391,JO Holder,West Indies,45.9318,,1.5
+287,392,Karanveer Singh,India,23.2612451,,
+288,393,SS Iyer,India,292.2831421,,2.5
+289,394,DJ Hooda,India,181.5184136,,0.4
+290,396,KS Williamson,New Zealand,117.326375,,1.5
+291,397,SA Abbott,New Zealand,32.15996154,,
+292,398,J Suchith,India,53.04299091,,0.2
+293,400,HH Pandya,India,114.81527,,3
+294,401,D Wiese,South Africa,97.47712021,,0.5
+295,402,SN Khan,India,120.8831772,,0.75
+296,403,MJ McClenaghan,New Zealand,52.52059704,,1
+297,406,SN Thakur,India,26.44533333,,0.75
+298,407,JC Buttler,England,165.6887651,,1.5
+299,408,CR Brathwaite,West Indies,77.96296667,,1
+300,409,MP Stoinis,Australia,115.7403928,,2
+301,410,Ishan Kishan,India,45.39873171,,0.4
+302,411,C Munro,New Zealand,42.04831075,,0.5
+303,412,P Sahu,India,38.67288462,,0.2
+304,413,KH Pandya,India,155.7762293,,0.4
+305,414,AD Nath,India,31.68059259,,0.2
+306,415,MJ Guptill,New Zealand,57.85206061,,0.75
+307,417,TM Head,Australia,58.02932381,,1.5
+308,419,NS Naik,India,35.31593939,,
+309,420,RR Pant,India,136.9054742,,2.5
+310,421,SW Billings,England,73.33626667,,1
+311,427,HM Amla,South Africa,124.9092224,,1.5
+312,428,F Behardien,South Africa,29.12423077,,
+313,431,N Rana,India,94.54655,,0.2
+314,433,ER Dwivedi,India,47.3507,,
+315,30,T Kohli,India,25.65816667,,
+316,242,CK Langeveldt,England,23.04661111,,
+317,281,NL McCullum,New Zealand,38.4371087,,
+318,302,BA Bhatt,India,21.02807143,,
+319,332,K Upadhyay,India,31.31416667,,
+320,390,R Tewatia,India,34.48669231,,0.2
+321,395,Anureet Singh,India,28.20257312,,0.3
+322,416,KJ Abbott,South Africa,34.97966667,,1.5
+323,422,KC Cariappa,India,28.13313636,,0.2
+324,16,SB Joshi,India,17.738,,
+325,75,Pankaj Singh,India,17.42246667,,
+326,91,VY Mahesh,India,25.03465714,,
+327,92,TM Srivastava,India,20.01254545,,
+328,99,D Kalyankrishna,India,14.751,,
+329,117,Mohammad Asif,Pakistan,12.121,,
+330,127,CK Kapugedera,Sri Lanka,27.91933333,,
+331,131,PP Ojha,India,28.97591813,,0.5
+332,134,U Kaul,India,1.414,,
+333,142,PM Sarvesh Kumar,India,10.013,,
+334,143,DP Vijaykumar,India,16.453,,
+335,144,Shoaib Akhtar,Pakistan,10.85,,
+336,145,Abdur Razzak,Bangladesh,2.574,,
+337,146,H Das,India,11.812,,
+338,149,CRD Fernando,Sri Lanka,23.45666667,,
+339,150,VS Yeligati,India,18.1,,
+340,156,T Thushara,Sri Lanka,22.369,,
+341,160,Kamran Khan,India,15.339,,
+342,165,FH Edwards,West Indies,17.102,,
+343,174,BAW Mendis,Sri Lanka,12.455,,
+344,179,Shoaib Ahmed,Pakistan,6.813,,
+345,181,KP Appanna,India,11.09066667,,
+346,184,SM Harwood,Australia,21.40942857,,
+347,189,D du Preez,South Africa,26.71230769,,
+348,193,C Nanda,India,1.414,,
+349,195,Mashrafe Mortaza,Bangladesh,18.1,,
+350,196,A Singh,India,9.14,,
+351,206,Jaskaran Singh,India,19.08754545,,
+352,213,A Uniyal,India,14.40771429,,
+353,215,YA Abdulla,India,1.414,,
+354,218,S Tyagi,India,15.811,,
+355,220,SE Bond,New Zealand,9.795,,
+356,222,S Ladda,India,7,,0.2
+357,223,DP Nannes,Australia,14.24992308,,
+358,234,SJ Srivastava,India,20.1265,,
+359,265,NJ Rimmington,Australia,16.453,,
+360,269,R Ninan,India,14.331,,
+361,273,SB Wagh,India,13.21533333,,
+362,278,S Randiv,Sri Lanka,12.82,,
+363,282,JE Taylor,New Zealand,15.25,,
+364,287,Harpreet Singh,India,29.37564103,,
+365,291,L Ablish,India,2.574,,
+366,294,P Parameswaran,India,8.418666667,,
+367,298,ND Doshi,India,15.334,,
+368,317,RR Bhatkal,India,2.574,,
+369,318,CJ McKay,Australia,20.57266667,,
+370,326,V Pratap Singh,India,1.414,,
+371,333,P Awana,India,13.86317143,,
+372,335,A Chandila,India,14.40771429,,
+373,337,Sunny Gupta,India,1.414,,
+374,343,B Laughlin,Australia,13.47255556,,0.5
+375,344,AS Rajpoot,India,12.60666667,,0.3
+376,346,JD Unadkat,India,11.9385,,1.5
+377,347,Mohammed Shami,India,19.72423377,,
+378,348,BMAJ Mendis,Sri Lanka,31.04364815,,
+379,352,SMSM Senanayake,Sri Lanka,20.51317647,,
+380,359,IC Pandey,India,2.574,,0.2
+381,361,X Thalaivan Sargunam,India,22.32117647,,
+382,368,S Kaul,India,23.87636364,,0.3
+383,382,YS Chahal,India,13.21533333,,2
+384,387,BE Hendricks,South Africa,7.770666667,,
+385,389,M de Lange,South Africa,10.013,,0.75
+386,399,RG More,India,17.452,,
+387,404,DJ Muthuswami,India,8.639666667,,
+388,405,PJ Cummins,Australia,2.574,,2
+389,418,M Ashwin,India,1.414,,0.2
+390,424,Swapnil Singh,India,1.414,,0.2
+391,425,J Yadav,India,17,,0.5
+392,429,BB Sran,India,18.726,,0.5
+393,430,A Zampa,Australia,1.414,,1
+394,432,S Kaushik,India,1.414,,0.2
+395,434,CJ Jordan,England,16.459,,1
